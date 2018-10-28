@@ -17,6 +17,3 @@ The images are resized to 128x128. Data augmentations such as random rotation, h
 Train the model and generate masks for validation and test images
 Run python segment.ipynb to train the model.
 Check out segment.ipynb to modify the number of iterations (epochs), batch size, etc.
-
-### Prediction
-Run performance.py to get performance on validation and test images.
